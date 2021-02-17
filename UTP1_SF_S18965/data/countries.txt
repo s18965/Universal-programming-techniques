@@ -1,0 +1,21 @@
+Name	Capital	Population(Thousands)	Flag	Date of Change
+Republic of Poland	Warsaw	38500
+Kingdom of Spain	Madrid	46599
+Russia	Moscow	34521
+United Kingdom	London	45621
+France	Paris	34912
+Germany	Berlin	43910
+Austria	Vien	12002
+United States of America	New York	54230
+Canada	Ottawa	20123
+Italy	Rome	31000
+Zimbabwe	Harare	5003
+South Africa	Cape Town	10521
+Czech Republic	Prague	10500
+China	Beijin	24532
+Australia	Canberra	35631
+Sweden	Stokholm	35432
+Norway	Oslo	45672
+Finland	Helsinki	21342
+Greece	Athens	12532
+Marocco	Rabat	34562
